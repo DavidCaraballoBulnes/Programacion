@@ -94,6 +94,5 @@ public class Act4RepasoArrays {
 		}
 		return numeroComensales;
 	}
-	
 
 }
