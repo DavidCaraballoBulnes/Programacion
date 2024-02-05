@@ -21,7 +21,6 @@ public class Act4RepasoArrays {
 			respuestaComensales=comensalNuevo(comensalesEnMesas);
 		}while(respuestaComensales!=-1);
 		
-		
 		mostrarArrayEnteros(mesas);
 		System.out.println();
 		mostrarArrayEnteros(comensalesEnMesas);
